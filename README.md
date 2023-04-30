@@ -7,3 +7,4 @@
 ![Screenshot (12)](https://user-images.githubusercontent.com/129422009/235347794-b489b8f7-5b2b-403e-b1c3-be1b348abba4.png)
 ![Screenshot (13)](https://user-images.githubusercontent.com/129422009/235347796-82a03ed6-2caa-4dee-8886-4f0a1fc9bdf7.png)
 # Fashion---Beauty
+<h1> Fashion & Beauty Template Website with Amazin Effect </h1>
